@@ -78,11 +78,9 @@ body{
 .modal {
     .modal-header {
         background:$background-dark;
+        color:floralwhite;
         button {
-            background-color:$background-pale;
-        }
-        h4 {
-            color:$background-pale;
+            background-color:floralwhite;
         }
     }
     .modal-body {
